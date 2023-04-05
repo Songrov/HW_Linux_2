@@ -1,0 +1,20 @@
+   0 cd /home
+   1 mkdir -p /user/start/ 
+   2 cd /user
+   3 cd /start
+   4 tree
+   5 cd start
+   6 > 1.txt
+   7 nano
+   8 date
+   9 cd opt
+  10 cd /opt
+  11 mkdir -p /task/start.txt
+  12 tree
+  13 cd /task
+  14 ls
+  15 cp -r /home/user/1.txt && /opt/task/start.txt
+  16 history > history.txt
+  17 cd
+  18 history > history.txt
+  19 history > history.txt export_file history.txt
